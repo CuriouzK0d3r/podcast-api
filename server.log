@@ -1,0 +1,3 @@
+# podcast-api/models
+models/podcast.go:4:2: "database/sql" imported and not used
+models/podcast.go:6:2: "fmt" imported and not used
